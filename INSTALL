@@ -1,0 +1,9 @@
+Building CYCLONECOIN
+
+See doc/readme-qt.rst for instructions on building CYCLONECOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CYCLONECOIN.
+
+See doc/build-*.txt for instructions on building cyclonecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CYCLONECOIN.
